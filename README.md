@@ -1,1 +1,1 @@
-# Simple Interface for Seamless Intelligence (SIFI) 
+# Simple Interface for Seamless Intelligence (SISI) 
