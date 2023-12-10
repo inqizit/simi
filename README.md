@@ -1,3 +1,3 @@
-# Simple Interface for Seamless Intelligence (SISI) 
+# Simple Interface for Machine Intelligence (SIMI) 
 
-sisi is an personalised AI assistant 
+simi is an personalised AI assistant 
